@@ -1,4 +1,4 @@
-import Square from './Square.jsx'
+import { Square } from './Square.jsx'
 
 export const Board = ({ board, updateBoard }) => {
   return (
